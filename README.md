@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Mohammed, an <a href="https://linkedin.com/in/ernestopantoja">IT Professional</a></h1>
 
-<!--
-**shefayethossain/shefayethossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ErnestoAPantoja/post-install-config)
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ErnestoAPantoja/ticket-lifecycle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Microsoft Azure</b>
+  - [Inspecting Network Traffic in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
+  - [Installing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
+  - [Configuring Active Directory in Azure](https://github.com/ErnestoAPantoja/configure-ad)
+  - [Understanding DNS in Azure](https://github.com/ErnestoAPantoja/intuition-dns)
+  - [Understanding File Permissions in Azure](https://github.com/ErnestoAPantoja/file-permissions)
+    
+<h2>🤳Connect with me on LinkedIn:</h2>
+
+[<img align="left" alt="| LinkedIn" width="22px" src="www.linkedin.com/in/mohammed-hossain-4aba62274" />][linkedin]
+
+[linkedin]:www.linkedin.com/in/mohammed-hossain-4aba62274
