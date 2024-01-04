@@ -14,8 +14,6 @@
   - [Understanding DNS in Azure](https://github.com/shefayethossain/intuition-dns)
   - [Understanding File Permissions in Azure](https://github.com/shefayethossain/file-permission)
     
-<h2>🤳Connect with me on LinkedIn:</h2>
 
-[<img alt="Gojko | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-[linkedin]:www.linkedin.com/in/mohammed-hossain-4aba62274
+
