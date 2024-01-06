@@ -9,9 +9,7 @@
 
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/shefayethossain/az-net-protocols)
-  - [Installing Active Directory in Azure](https://github.com/shefayethossain/Install-ad)
-  - [Configuring Active Directory in Azure](https://github.com/shefayethossain/Config-ad)
-  - [Understanding DNS in Azure](https://github.com/shefayethossain/intuition-dns)
+  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/shefayethossain/Config-ad)
   - [Understanding File Permissions in Azure](https://github.com/shefayethossain/file-permission)
     
 
