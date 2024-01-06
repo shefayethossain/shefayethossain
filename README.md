@@ -9,7 +9,7 @@
 
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/shefayethossain/az-net-protocols)
-  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/shefayethossain/Config-ad)
+  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/shefayethossain/ad-on-premises)
   - [Understanding File Permissions in Azure](https://github.com/shefayethossain/file-permission)
     
 
